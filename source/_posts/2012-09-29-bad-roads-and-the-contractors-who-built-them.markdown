@@ -21,7 +21,7 @@ Code, to us programmers is like how a painting is to an artist. Unless it looks 
 
 Writing code that works is not the right approach. But writing good code, that works, efficiently and allows for extension in the future is the right approach.
 
-I was introduced to Design Patterns by two friends, Senthil and Kumaran. Ever since, I find myself trying to write better code. I know I still have a long way to go. I want to be a great Road Contractor. And I know that spending that extra time to get my code look beautiful, is going to get me there.
+I was introduced to Design Patterns by two friends, [Senthil](https://twitter.com/senkumarv "Senthil") and [Kumaran](https://twitter.com/kumaranvram "Kumaran"). Ever since, I find myself trying to write better code. I know I still have a long way to go. I want to be a great Road Contractor. And I know that spending that extra time to get my code look beautiful, is going to get me there.
 
 Other Resources that I've found of really great use
 
