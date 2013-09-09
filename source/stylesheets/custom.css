@@ -1,0 +1,30 @@
+#site_header h1
+{
+	font-size: 24px;
+	font-weight: normal;
+	letter-spacing: 0em;
+	text-align: center;
+	margin-top: 0px;
+}
+#site_header img
+{
+	border:0;
+	-webkit-border-radius: 0em;
+	border-radius: 0em;
+	box-shadow: none;
+	margin-top: 10px;
+}
+.social
+{
+	text-align: center;
+}
+.social a img
+{
+	margin-top: 0px;
+	width: 32px;
+	border:0;
+	-webkit-border-radius: 0em;
+	border-radius: 0em;
+	box-shadow: none;
+	margin-top: 10px;
+}
