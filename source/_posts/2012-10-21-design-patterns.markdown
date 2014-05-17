@@ -29,9 +29,8 @@ Most articles I've found these days about good programming spring from the Agile
 
 Here are some of the ideals I try to follow, they're not in any order, just random stuff I do while writing code.
 
-  * No **else**.
-I try real hard to avoid the else statement. When I first heard this from Object Calisthenics, I found it weird  but slowly grew to realize that I realize that I didnt need it. A simple **return **or **continue** could easily replace an **else.**
-
+  * Do not use **else** 
+	* I try real hard to avoid the else statement. When I first heard this from Object Calisthenics, I found it weird  but slowly grew to realize that I realize that I didnt need it. A simple **return **or **continue** could easily replace an **else.**
   * Only one level of **Indentation**	
   * Good method names
   * Let a method perform one task and only one task
