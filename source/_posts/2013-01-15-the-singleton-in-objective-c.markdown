@@ -18,7 +18,7 @@ tags:
 - singleton
 ---
 
-In my previous [post](http://mariostallone.com/2013/01/14/design-patterns-singleton/) I had mentioned a code example on how to write a Singleton in Objective C. I had a friend ask me, what would happen when I call an alloc init over my Singleton?
+In my previous [post](http://mariostallone.com/blog/2013/01/14/design-patterns-singleton/) I had mentioned a code example on how to write a Singleton in Objective C. I had a friend ask me, what would happen when I call an alloc init over my Singleton?
 
 This got me thniking, so I did my fair share of research on the topic, and came up with a few conclusions.
 There is no way to restrict the calling of the init method(like in Java). But, we still want to maintain only one instance. Of course, the easiest solution would be, just to remember that we are using a Singleton :-) But, often enough this is not the case, and when working in large teams, theres always a chance of making a mistake. So here are two methods by which we can ensure the creation of one and only one instance of the class
